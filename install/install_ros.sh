@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# source: http://wiki.ros.org/melodic/Installation/Ubuntu
+
 sudo apt update -y && apt upgrade -y
 sudo apt install -y curl gnupg2 lsb-release git meld build-essential libfontconfig1 mesa-common-dev libglu1-mesa-dev
 
