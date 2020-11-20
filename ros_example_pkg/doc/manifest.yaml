@@ -1,0 +1,21 @@
+actions: []
+authors: ''
+brief: ''
+bugtracker: ''
+depends:
+- roslaunch
+- catkin
+- roscpp
+- python-numpy
+- std_msgs
+- rospy
+- rosunit
+- std_srvs
+description: Demonstration of how to structure the source for a ROS package.
+license: TODO
+maintainers: JKBehrens <behrens.jk@gmail.com>
+msgs: []
+package_type: package
+repo_url: ''
+srvs: []
+url: http://behrens-jan.de/ros-software-engineering-course/

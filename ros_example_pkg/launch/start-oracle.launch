@@ -1,0 +1,4 @@
+
+<launch>
+  <node name="oracle" pkg="ros_example_pkg" type="oracle_node.py" args="--seed 5"/>
+</launch>
